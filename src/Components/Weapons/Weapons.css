@@ -1,0 +1,22 @@
+.weapons{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;    
+}
+  
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h3{
+  margin-right: 10px;
+  margin-bottom: 0;
+}
+
+.weaponsList{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

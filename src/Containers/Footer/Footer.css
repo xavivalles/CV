@@ -1,0 +1,33 @@
+.footer{
+  width: 100%;
+  min-height: 10%;
+  background-color: cornflowerblue;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.footerContainer{
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.buttonContainer{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;  
+  justify-content: space-between;
+  color: cornflowerblue;
+  align-items: center;
+}
+
+.buttonStyle{
+  background-color: white;
+}

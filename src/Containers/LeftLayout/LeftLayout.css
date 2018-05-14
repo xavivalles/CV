@@ -1,0 +1,16 @@
+.leftLayout{
+  width: 60%;
+  height: inherit;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.imageStyle{
+  display: flex;
+  align-items: center;
+  height: inherit;
+  width: inherit;
+  position: fixed;
+  background-size: cover;
+}

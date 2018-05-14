@@ -1,0 +1,6 @@
+.rightLayout{
+  width: 40%;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,35 @@
+.enterprises{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+  width: inherit;
+  min-height: 50px;
+}
+
+.logo {
+  animation: logo-spin infinite 10s linear;
+}
+
+.accenture{
+  height: 70px;
+  width: 150px;
+}
+
+.vueling{
+  height: 70px;
+  width: 150px;
+  margin-top: 16px;
+}
+
+.travelport{
+  height: 70px;
+  width: 170px;
+  margin-top: 34px;
+}
+
+@keyframes logo-spin {
+  from { transform: rotateY(0deg); }
+  to { transform: rotateY(360deg); }
+}
