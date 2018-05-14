@@ -1,7 +1,7 @@
 .enterprises{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-bottom: 100px;
   width: inherit;
